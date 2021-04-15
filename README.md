@@ -16,11 +16,14 @@ Once the databased had been updated , I sought to create a business request that
 
 Methodology.
 
+
+
 Once connecting the AdventureWorksDB to SQL Server Management Studios and ensuring all the database had been installed correctly.
 I ran the updated script and began to cleanse the data required to complete the business request. The  SQL scripts provided beginning with DIM, 
 showcased how I cleansed the data and extracted the required columns from the table. 
 
-Once the scripts had been been prepared i ran and saved the resulting .csv files to upload to Power BI. Using said .csv I created a dashboard in Power BI that fufilled the 
-targets set in the business request.
+
+Once the scripts had been prepared I ran and saved the resulting .csv files to upload to Power BI.
+Using said .csv I created a dashboard in Power BI that fulfilled the targets set in the business request.
 
 
