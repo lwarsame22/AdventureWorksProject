@@ -27,3 +27,6 @@ Once the scripts had been prepared I ran and saved the resulting .csv files to u
 Using said .csv I created a dashboard in Power BI that fulfilled the targets set in the business request.
 
 
+![SalesOverview](https://user-images.githubusercontent.com/47522591/114907345-e2680580-9e12-11eb-9e5a-fb45cc915b65.PNG)
+![Product](https://user-images.githubusercontent.com/47522591/114907364-e72cb980-9e12-11eb-9280-546f6e05216f.PNG)
+![Customer](https://user-images.githubusercontent.com/47522591/114907366-e7c55000-9e12-11eb-9587-99309eca4901.PNG)
