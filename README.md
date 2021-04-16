@@ -6,11 +6,11 @@ The database used for the project was the Adventure Works Sample Data from Micro
 
 This database can be found here : https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
-Using a SQL script provided by TechTalkCorner, the AdventureWorksDW database was updated recent dates and it inserts new dates in the date dimension. 
+Using a SQL script provided by TechTalkCorner, the AdventureWorksDW database was updated with recent dates and new dates inserted in the date dimension. 
 
 This Updated SQL Script can be found here : https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql
 
-Once the databased had been updated , I sought to create a business request that was developed by Ali Ahmad.
+Once the databased had been updated , I sought to develop a business request that was created by Ali Ahmad.
 
 
 
